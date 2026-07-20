@@ -6,17 +6,17 @@ LearnSphere is a responsive online learning platform built with **React**, **Vit
 
 ## 🚀 Tech Stack
 
-- ⚛️ React
-- ⚡ Vite
-- 🎨 Tailwind CSS
-- 🧭 React Router DOM
-- 🟨 JavaScript
+-  React
+-  Vite
+- Tailwind CSS
+-  React Router DOM
+- JavaScript
 
 ---
 
-## ✨ Advanced Tailwind CSS Assignment
+## Advanced Tailwind CSS Assignment
 
-### 📖 Feature 1 – Course Details Modal
+###  Feature 1 – Course Details Modal
 
 - Responsive course details modal
 - Full-screen overlay
@@ -25,7 +25,7 @@ LearnSphere is a responsive online learning platform built with **React**, **Vit
 - Hover, Focus & Active states
 - Responsive on all screen sizes
 
-### 🔔 Feature 2 – Notification Center
+###  Feature 2 – Notification Center
 
 - Sticky navbar
 - Notification badge
@@ -69,7 +69,7 @@ learnsphere/
 
 ---
 
-## 🌿 Branch
+## Branch
 
 `feature/advanced-tailwind-ui`
 
@@ -84,7 +84,7 @@ npm run dev
 
 ---
 
-## 🛠️ UI Issues Fixed
+## UI Issues Fixed
 
 - ✅ Improved spacing and alignment
 - ✅ Fixed responsive layout issues
